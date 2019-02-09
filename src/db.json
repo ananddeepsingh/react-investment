@@ -1,0 +1,40 @@
+{
+  "data": [
+  {
+    "id": 1,
+    "investment": "Stock",
+    "commitmentDate": "Mar 12 1993",
+    "marketValue":  900
+  },
+  {
+    "id": 2,
+    "investment": "Gold",
+    "commitmentDate": "Jun 12 2018",
+    "marketValue":  800
+  },
+  {
+    "id": 3,
+    "investment": "Property",
+    "commitmentDate": "Jan 12 1990",
+    "marketValue":  100000
+  },
+  {
+    "id": 4,
+    "investment": "Diamond",
+    "commitmentDate": "Sep 12 2012",
+    "marketValue":  1000000
+  },
+  {
+    "id": 5,
+    "investment": "Plot",
+    "commitmentDate": "Apr 12 2022",
+    "marketValue":  200000
+  },
+  {
+    "id": 6,
+    "investment": "Scooter",
+    "commitmentDate": "Mar 12 2012",
+    "marketValue":  900000
+  }
+]
+}
